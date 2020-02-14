@@ -20,7 +20,7 @@ RevSCA was developed and tested in Fedora 24. For related information, e.g. othe
 	outputFile: name of output file containing verification data
 ```
 
-## RevSCA-2.0 is now available at [GitHub](https://github.com/amahzoon/revsca2)!
+## RevSCA-2.0 is now available at [GitHub](https://github.com/amahzoon/RevSCA-2.0)!
 
 RevSCA-2.0 features:
 
